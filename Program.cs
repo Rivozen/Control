@@ -63,7 +63,7 @@ namespace GreenTea
             int currentLine = total_strings;
             for (int i = total_strings; i > n; i--)
             {
-                
+                // не закончено
             }
             Console.ReadKey();
         }
